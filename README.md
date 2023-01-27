@@ -19,9 +19,7 @@
     Coming soon ... blog post on Mux.com 📝 🔥
     <br />
     <br />
-    <a href="https://github.com/paloma-group/muxpudding/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/paloma-group/muxpudding/issues">Request Feature</a>
+  
   </p>
 </div>
 
